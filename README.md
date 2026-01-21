@@ -72,7 +72,8 @@ Issue Number: 108143
 - Priority score  
 - Suggested labels  
 - Potential impact  
-- JSON formatted analysis  
+- JSON formatted analysis
+  https://github.com/ARAVIND2017/seedling_labs_task/blob/97e0de16b990285eba372b376bf14ea17d56d86e/home%20page.png
 
 ## ⚠️ Error Handling
 
