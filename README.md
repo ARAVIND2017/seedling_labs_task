@@ -61,10 +61,10 @@ cd frontend
 streamlit run ui.py  
 
 ##  Example Input
-
+```
 Repository URL: https://github.com/tensorflow/tensorflow 
 Issue Number: 108143 
-
+```
 ## Output with snapshots
 
 - Issue summary  
@@ -73,6 +73,7 @@ Issue Number: 108143
 - Suggested labels  
 - Potential impact  
 - JSON formatted analysis
+  
  ![Image Alt]( https://github.com/ARAVIND2017/seedling_labs_task/blob/97e0de16b990285eba372b376bf14ea17d56d86e/home%20page.png)
  ![Image Alt](https://github.com/ARAVIND2017/seedling_labs_task/blob/759567a6a15c35464459e0f6834c494074fb6d7a/deatils%20page.png)
  ![Image Alt](https://github.com/ARAVIND2017/seedling_labs_task/blob/759567a6a15c35464459e0f6834c494074fb6d7a/human%20readble%20format.png)
